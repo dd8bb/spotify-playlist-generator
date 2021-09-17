@@ -6,3 +6,7 @@ In order to run successfully, you will need a Spotify API client_id and client_s
 
 You can obtain both by signing up for an account through the following link: https://developer.spotify.com/dashboard/login
 
+
+<h4> Warning! </h4>
+Only works for top 100 billboards till 1958. Genre charts may depend, Rap from 2000 onwards, Alternative Rock from 2009 onwards...
+
